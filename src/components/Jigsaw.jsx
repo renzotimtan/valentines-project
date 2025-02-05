@@ -23,7 +23,7 @@ export default function Jigsaw({ step, setStep, selectedImage }) {
       </h1>
       <JigsawPuzzle
         imageSrc={`../images/couple/${selectedImage}.jpg`}
-        rows={3}
+        rows={4}
         columns={3}
         onSolved={handleSolve}
       />

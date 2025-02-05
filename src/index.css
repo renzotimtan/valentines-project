@@ -14,6 +14,7 @@
   white-space: nowrap;
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards, handwriting 3s ease-in-out forwards;
+  padding-bottom: 20px;
 }
 
 /* Fade-in animation */
